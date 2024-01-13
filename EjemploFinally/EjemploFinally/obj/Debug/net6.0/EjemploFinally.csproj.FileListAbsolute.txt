@@ -1,0 +1,15 @@
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.exe
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.deps.json
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.runtimeconfig.json
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.dll
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\bin\Debug\net6.0\EjemploFinally.pdb
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.AssemblyInfoInputs.cache
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.AssemblyInfo.cs
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.dll
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\refint\EjemploFinally.dll
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.pdb
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\EjemploFinally.genruntimeconfig.cache
+C:\Users\Emanuel Developer\source\repos\EjemploFinally\EjemploFinally\obj\Debug\net6.0\ref\EjemploFinally.dll

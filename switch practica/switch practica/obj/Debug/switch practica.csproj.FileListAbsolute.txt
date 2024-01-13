@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\bin\Debug\switch practica.exe.config
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\bin\Debug\switch practica.exe
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\bin\Debug\switch practica.pdb
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\obj\Debug\switch practica.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\obj\Debug\switch practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\obj\Debug\switch practica.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\obj\Debug\switch practica.exe
+C:\Users\Emanuel Developer\source\repos\switch practica\switch practica\obj\Debug\switch practica.pdb

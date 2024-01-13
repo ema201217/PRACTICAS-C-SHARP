@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe.config
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.exe
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\ProyectoHerencia.pdb
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.exe
+C:\Users\Emanuel Developer\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\ProyectoHerencia.pdb

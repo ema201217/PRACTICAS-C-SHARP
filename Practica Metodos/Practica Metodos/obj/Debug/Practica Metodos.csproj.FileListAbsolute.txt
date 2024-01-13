@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\bin\Debug\Practica Metodos.exe.config
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\bin\Debug\Practica Metodos.exe
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\bin\Debug\Practica Metodos.pdb
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\obj\Debug\Practica Metodos.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\obj\Debug\Practica Metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\obj\Debug\Practica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\obj\Debug\Practica Metodos.exe
+C:\Users\Emanuel Developer\source\repos\Practica Metodos\Practica Metodos\obj\Debug\Practica Metodos.pdb

@@ -1,0 +1,15 @@
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.AssemblyInfoInputs.cache
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.AssemblyInfo.cs
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\bin\Debug\net6.0\BUCLES.exe
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\bin\Debug\net6.0\BUCLES.deps.json
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\bin\Debug\net6.0\BUCLES.runtimeconfig.json
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\bin\Debug\net6.0\BUCLES.dll
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\bin\Debug\net6.0\BUCLES.pdb
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.dll
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\refint\BUCLES.dll
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.pdb
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\BUCLES.genruntimeconfig.cache
+C:\Users\Emanuel Developer\source\repos\BUCLES\BUCLES\obj\Debug\net6.0\ref\BUCLES.dll

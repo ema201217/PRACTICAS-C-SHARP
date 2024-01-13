@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Emanuel Developer\source\repos\calculadora\calculadora\obj\Debug\calculadora.pdb

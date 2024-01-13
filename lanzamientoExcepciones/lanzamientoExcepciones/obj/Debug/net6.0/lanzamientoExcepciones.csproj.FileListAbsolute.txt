@@ -1,0 +1,15 @@
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\bin\Debug\net6.0\lanzamientoExcepciones.exe
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\bin\Debug\net6.0\lanzamientoExcepciones.deps.json
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\bin\Debug\net6.0\lanzamientoExcepciones.runtimeconfig.json
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\bin\Debug\net6.0\lanzamientoExcepciones.dll
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\bin\Debug\net6.0\lanzamientoExcepciones.pdb
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.AssemblyInfo.cs
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.dll
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\refint\lanzamientoExcepciones.dll
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.pdb
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\lanzamientoExcepciones.genruntimeconfig.cache
+C:\Users\Emanuel Developer\source\repos\lanzamientoExcepciones\lanzamientoExcepciones\obj\Debug\net6.0\ref\lanzamientoExcepciones.dll

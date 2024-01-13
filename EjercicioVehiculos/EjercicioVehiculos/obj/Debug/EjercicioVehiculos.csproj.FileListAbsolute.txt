@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.exe.config
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.exe
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.pdb
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.exe
+C:\Users\Emanuel Developer\source\repos\EjercicioVehiculos\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\obj\Debug\condicional_if.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\obj\Debug\condicional_if.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\obj\Debug\condicional_if.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\bin\Debug\condicional IF.exe.config
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\bin\Debug\condicional IF.exe
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\bin\Debug\condicional IF.pdb
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\obj\Debug\condicional IF.exe
+C:\Users\Emanuel Developer\source\repos\condicional IF\condicional IF\obj\Debug\condicional IF.pdb

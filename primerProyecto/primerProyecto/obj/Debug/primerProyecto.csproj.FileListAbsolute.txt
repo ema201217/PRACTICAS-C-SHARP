@@ -1,0 +1,8 @@
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe.config
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.pdb
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.csproj.AssemblyReference.cache
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.exe
+C:\Users\Emanuel Developer\source\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.pdb
